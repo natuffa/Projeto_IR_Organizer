@@ -61,9 +61,9 @@ Este projeto consiste em uma ferramenta desenvolvida inteiramente no Excel para 
 
 ### Menus
 
-![Menu - Titular](https://github.com/natuffa/Projeto_IR_Organizer/blob/main/prints/Menu_Titular.png?raw=true)
-![Menu - Informes](https://github.com/natuffa/Projeto_IR_Organizer/blob/main/prints/Menu_Informes.png?raw=true)
-![Menu - Notas](https://github.com/natuffa/Projeto_IR_Organizer/blob/main/prints/Menu_Notas.png?raw=true)
+![Menu - Titular](Menu_Titular.png)
+![Menu - Informes](Menu_Informes.png)
+![Menu - Notas](Menu_Notas.png)
 
 ## 📚 Aprendizados
 
